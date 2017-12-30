@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Telegram</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HOVER" transform="translate(-359.000000, -88.000000)">
+            <g id="Telegram" transform="translate(360.000000, 89.000000)">
+                <circle id="Oval-3-Copy-3" stroke="#1B1B1B" cx="20" cy="20" r="20"></circle>
+                <path d="M16,29.4953784 C16.5388859,29.4953784 16.7769836,29.248928 17.0777717,28.9564926 L19.9518297,26.1618305 L16.3668016,24" id="Shape" stroke="#5E676F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M16.1828367,23.9745299 L24.8696769,30.3924809 C25.8609574,30.9394321 26.5764003,30.6562476 26.8233178,29.4721537 L30.3593072,12.8092638 C30.7213307,11.3578286 29.8060331,10.6995256 28.8577197,11.1300595 L8.09444724,19.1362868 C6.67715945,19.7047575 6.68542237,20.4954648 7.83610536,20.8477883 L13.1644292,22.510844 L25.5000656,14.728434 C26.0824036,14.375302 26.6168706,14.5651533 26.1781995,14.9544786" id="Shape" stroke="#5E676F" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>
